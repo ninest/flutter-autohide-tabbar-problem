@@ -11,6 +11,21 @@
           - TabBar
         - TabBarView
 
+## Problem
+
+1. I have to set the `snap` of the `SliverAppBar` to `true`. Without this, the application bar will not show when I scroll back up.
+
+  Although this is works, it is not the behaviour I am looking for. I want the application bar to show smoothly (similar to WhatsApp) rather than coming into view even if you scroll very little.
+
+
+2. When I scroll down and change tabs, a little bit of the content is cut out of view.
+
+  Below is a GIF showing the behaviour:
+
+  ![Problem][tabbar.gif]
+
+
+
 ## Built with
 
 - `DefaultTabController`

@@ -20,7 +20,7 @@ class MyApp extends StatelessWidget {
                 (BuildContext context, bool innerBoxIsScrolled) {
               return <Widget>[
                 new SliverAppBar(
-                  title: Text("Whatsapp-like beahaviour"),
+                  title: Text("Application"),
                   floating: true,
                   pinned: true,
                   snap: true,
