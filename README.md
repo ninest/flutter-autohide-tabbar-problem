@@ -22,7 +22,7 @@
 
   Below is a GIF showing the behaviour:
 
-  ![Problem][tabbar.gif]
+![Problem][tabbar.gif]
 
 
 
