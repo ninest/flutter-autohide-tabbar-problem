@@ -2,6 +2,8 @@
 
 - Flutter app bar + tab bar with hide on scroll functionality
 
+Please see [this](https://github.com/themindstorm/flutter-autohide-tabbar-problem) stackoverflow question.
+
 ## Structure
 - MaterialApp
   - DefaultTabController
