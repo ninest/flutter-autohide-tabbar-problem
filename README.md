@@ -2,7 +2,7 @@
 
 - Flutter app bar + tab bar with hide on scroll functionality
 
-Please see [this](https://stackoverflow.com/questions/55187332/flutter-tabbar-and-sliverappbar-that-hides-when-you-scroll-down) stackoverflow question.
+Please see [this](https://stackoverflow.com/q/55187332/8677167) stackoverflow question.
 
 ## Structure
 - MaterialApp
